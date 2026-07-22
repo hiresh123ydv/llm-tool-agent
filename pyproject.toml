@@ -1,7 +1,7 @@
 [project]
 name = "day7"
 version = "0.1.0"
-description = "Add your description here"
+description = "A ReAct-style AI agent using Groq that can search the web and do math to answer questions""
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
